@@ -1,0 +1,2281 @@
+{
+  "identificador_oficial": "BOE-A-1978-31229",
+  "bloques": [
+    {
+      "id": "preambulo",
+      "titulo": "",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/preambulo"
+    },
+    {
+      "id": "tpreliminar",
+      "titulo": "TÍTULO PRELIMINAR",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/tpreliminar"
+    },
+    {
+      "id": "a1",
+      "titulo": "Artículo 1",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a1"
+    },
+    {
+      "id": "a2",
+      "titulo": "Artículo 2",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a2"
+    },
+    {
+      "id": "a3",
+      "titulo": "Artículo 3",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a3"
+    },
+    {
+      "id": "a4",
+      "titulo": "Artículo 4",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a4"
+    },
+    {
+      "id": "a5",
+      "titulo": "Artículo 5",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a5"
+    },
+    {
+      "id": "a6",
+      "titulo": "Artículo 6",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a6"
+    },
+    {
+      "id": "a7",
+      "titulo": "Artículo 7",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a7"
+    },
+    {
+      "id": "a8",
+      "titulo": "Artículo 8",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a8"
+    },
+    {
+      "id": "a9",
+      "titulo": "Artículo 9",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a9"
+    },
+    {
+      "id": "ti",
+      "titulo": "TÍTULO I",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/ti"
+    },
+    {
+      "id": "a10",
+      "titulo": "Artículo 10",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a10"
+    },
+    {
+      "id": "cprimero",
+      "titulo": "CAPÍTULO PRIMERO",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/cprimero"
+    },
+    {
+      "id": "a11",
+      "titulo": "Artículo 11",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a11"
+    },
+    {
+      "id": "a12",
+      "titulo": "Artículo 12",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a12"
+    },
+    {
+      "id": "a13",
+      "titulo": "Artículo 13",
+      "fecha_actualizacion": "19920828",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a13"
+    },
+    {
+      "id": "csegundo",
+      "titulo": "CAPÍTULO SEGUNDO",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/csegundo"
+    },
+    {
+      "id": "a14",
+      "titulo": "Artículo 14",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a14"
+    },
+    {
+      "id": "s1",
+      "titulo": "SECCIÓN 1",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/s1"
+    },
+    {
+      "id": "a15",
+      "titulo": "Artículo 15",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a15"
+    },
+    {
+      "id": "a16",
+      "titulo": "Artículo 16",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a16"
+    },
+    {
+      "id": "a17",
+      "titulo": "Artículo 17",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a17"
+    },
+    {
+      "id": "a18",
+      "titulo": "Artículo 18",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a18"
+    },
+    {
+      "id": "a19",
+      "titulo": "Artículo 19",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a19"
+    },
+    {
+      "id": "a20",
+      "titulo": "Artículo 20",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a20"
+    },
+    {
+      "id": "a21",
+      "titulo": "Artículo 21",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a21"
+    },
+    {
+      "id": "a22",
+      "titulo": "Artículo 22",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a22"
+    },
+    {
+      "id": "a23",
+      "titulo": "Artículo 23",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a23"
+    },
+    {
+      "id": "a24",
+      "titulo": "Artículo 24",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a24"
+    },
+    {
+      "id": "a25",
+      "titulo": "Artículo 25",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a25"
+    },
+    {
+      "id": "a26",
+      "titulo": "Artículo 26",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a26"
+    },
+    {
+      "id": "a27",
+      "titulo": "Artículo 27",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a27"
+    },
+    {
+      "id": "a28",
+      "titulo": "Artículo 28",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a28"
+    },
+    {
+      "id": "a29",
+      "titulo": "Artículo 29",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a29"
+    },
+    {
+      "id": "s2",
+      "titulo": "SECCIÓN 2",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/s2"
+    },
+    {
+      "id": "a30",
+      "titulo": "Artículo 30",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a30"
+    },
+    {
+      "id": "a31",
+      "titulo": "Artículo 31",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a31"
+    },
+    {
+      "id": "a32",
+      "titulo": "Artículo 32",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a32"
+    },
+    {
+      "id": "a33",
+      "titulo": "Artículo 33",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a33"
+    },
+    {
+      "id": "a34",
+      "titulo": "Artículo 34",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a34"
+    },
+    {
+      "id": "a35",
+      "titulo": "Artículo 35",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a35"
+    },
+    {
+      "id": "a36",
+      "titulo": "Artículo 36",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a36"
+    },
+    {
+      "id": "a37",
+      "titulo": "Artículo 37",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a37"
+    },
+    {
+      "id": "a38",
+      "titulo": "Artículo 38",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a38"
+    },
+    {
+      "id": "ctercero",
+      "titulo": "CAPÍTULO TERCERO",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/ctercero"
+    },
+    {
+      "id": "a39",
+      "titulo": "Artículo 39",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a39"
+    },
+    {
+      "id": "a40",
+      "titulo": "Artículo 40",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a40"
+    },
+    {
+      "id": "a41",
+      "titulo": "Artículo 41",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a41"
+    },
+    {
+      "id": "a42",
+      "titulo": "Artículo 42",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a42"
+    },
+    {
+      "id": "a43",
+      "titulo": "Artículo 43",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a43"
+    },
+    {
+      "id": "a44",
+      "titulo": "Artículo 44",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a44"
+    },
+    {
+      "id": "a45",
+      "titulo": "Artículo 45",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a45"
+    },
+    {
+      "id": "a46",
+      "titulo": "Artículo 46",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a46"
+    },
+    {
+      "id": "a47",
+      "titulo": "Artículo 47",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a47"
+    },
+    {
+      "id": "a48",
+      "titulo": "Artículo 48",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a48"
+    },
+    {
+      "id": "a49",
+      "titulo": "Artículo 49",
+      "fecha_actualizacion": "20240217",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a49"
+    },
+    {
+      "id": "a50",
+      "titulo": "Artículo 50",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a50"
+    },
+    {
+      "id": "a51",
+      "titulo": "Artículo 51",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a51"
+    },
+    {
+      "id": "a52",
+      "titulo": "Artículo 52",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a52"
+    },
+    {
+      "id": "ccuarto",
+      "titulo": "CAPÍTULO CUARTO",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/ccuarto"
+    },
+    {
+      "id": "a53",
+      "titulo": "Artículo 53",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a53"
+    },
+    {
+      "id": "a54",
+      "titulo": "Artículo 54",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a54"
+    },
+    {
+      "id": "cquinto",
+      "titulo": "CAPÍTULO QUINTO",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/cquinto"
+    },
+    {
+      "id": "a55",
+      "titulo": "Artículo 55",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a55"
+    },
+    {
+      "id": "tii",
+      "titulo": "TÍTULO II",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/tii"
+    },
+    {
+      "id": "a56",
+      "titulo": "Artículo 56",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a56"
+    },
+    {
+      "id": "a57",
+      "titulo": "Artículo 57",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a57"
+    },
+    {
+      "id": "a58",
+      "titulo": "Artículo 58",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a58"
+    },
+    {
+      "id": "a59",
+      "titulo": "Artículo 59",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a59"
+    },
+    {
+      "id": "a60",
+      "titulo": "Artículo 60",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a60"
+    },
+    {
+      "id": "a61",
+      "titulo": "Artículo 61",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a61"
+    },
+    {
+      "id": "a62",
+      "titulo": "Artículo 62",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a62"
+    },
+    {
+      "id": "a63",
+      "titulo": "Artículo 63",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a63"
+    },
+    {
+      "id": "a64",
+      "titulo": "Artículo 64",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a64"
+    },
+    {
+      "id": "a65",
+      "titulo": "Artículo 65",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a65"
+    },
+    {
+      "id": "tiii",
+      "titulo": "TÍTULO III",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/tiii"
+    },
+    {
+      "id": "cprimero-2",
+      "titulo": "CAPÍTULO PRIMERO",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/cprimero-2"
+    },
+    {
+      "id": "a66",
+      "titulo": "Artículo 66",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a66"
+    },
+    {
+      "id": "a67",
+      "titulo": "Artículo 67",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a67"
+    },
+    {
+      "id": "a68",
+      "titulo": "Artículo 68",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a68"
+    },
+    {
+      "id": "a69",
+      "titulo": "Artículo 69",
+      "fecha_actualizacion": "20260520",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a69"
+    },
+    {
+      "id": "a70",
+      "titulo": "Artículo 70",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a70"
+    },
+    {
+      "id": "a71",
+      "titulo": "Artículo 71",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a71"
+    },
+    {
+      "id": "a72",
+      "titulo": "Artículo 72",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a72"
+    },
+    {
+      "id": "a73",
+      "titulo": "Artículo 73",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a73"
+    },
+    {
+      "id": "a74",
+      "titulo": "Artículo 74",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a74"
+    },
+    {
+      "id": "a75",
+      "titulo": "Artículo 75",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a75"
+    },
+    {
+      "id": "a76",
+      "titulo": "Artículo 76",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a76"
+    },
+    {
+      "id": "a77",
+      "titulo": "Artículo 77",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a77"
+    },
+    {
+      "id": "a78",
+      "titulo": "Artículo 78",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a78"
+    },
+    {
+      "id": "a79",
+      "titulo": "Artículo 79",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a79"
+    },
+    {
+      "id": "a80",
+      "titulo": "Artículo 80",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a80"
+    },
+    {
+      "id": "csegundo-2",
+      "titulo": "CAPÍTULO SEGUNDO",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/csegundo-2"
+    },
+    {
+      "id": "a81",
+      "titulo": "Artículo 81",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a81"
+    },
+    {
+      "id": "a82",
+      "titulo": "Artículo 82",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a82"
+    },
+    {
+      "id": "a83",
+      "titulo": "Artículo 83",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a83"
+    },
+    {
+      "id": "a84",
+      "titulo": "Artículo 84",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a84"
+    },
+    {
+      "id": "a85",
+      "titulo": "Artículo 85",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a85"
+    },
+    {
+      "id": "a86",
+      "titulo": "Artículo 86",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a86"
+    },
+    {
+      "id": "a87",
+      "titulo": "Artículo 87",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a87"
+    },
+    {
+      "id": "a88",
+      "titulo": "Artículo 88",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a88"
+    },
+    {
+      "id": "a89",
+      "titulo": "Artículo 89",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a89"
+    },
+    {
+      "id": "a90",
+      "titulo": "Artículo 90",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a90"
+    },
+    {
+      "id": "a91",
+      "titulo": "Artículo 91",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a91"
+    },
+    {
+      "id": "a92",
+      "titulo": "Artículo 92",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a92"
+    },
+    {
+      "id": "ctercero-2",
+      "titulo": "CAPÍTULO TERCERO",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/ctercero-2"
+    },
+    {
+      "id": "a93",
+      "titulo": "Artículo 93",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a93"
+    },
+    {
+      "id": "a94",
+      "titulo": "Artículo 94",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a94"
+    },
+    {
+      "id": "a95",
+      "titulo": "Artículo 95",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a95"
+    },
+    {
+      "id": "a96",
+      "titulo": "Artículo 96",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a96"
+    },
+    {
+      "id": "tiv",
+      "titulo": "TÍTULO IV",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/tiv"
+    },
+    {
+      "id": "a97",
+      "titulo": "Artículo 97",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a97"
+    },
+    {
+      "id": "a98",
+      "titulo": "Artículo 98",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a98"
+    },
+    {
+      "id": "a99",
+      "titulo": "Artículo 99",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a99"
+    },
+    {
+      "id": "a100",
+      "titulo": "Artículo 100",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a100"
+    },
+    {
+      "id": "a101",
+      "titulo": "Artículo 101",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a101"
+    },
+    {
+      "id": "a102",
+      "titulo": "Artículo 102",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a102"
+    },
+    {
+      "id": "a103",
+      "titulo": "Artículo 103",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a103"
+    },
+    {
+      "id": "a104",
+      "titulo": "Artículo 104",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a104"
+    },
+    {
+      "id": "a105",
+      "titulo": "Artículo 105",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a105"
+    },
+    {
+      "id": "a106",
+      "titulo": "Artículo 106",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a106"
+    },
+    {
+      "id": "a107",
+      "titulo": "Artículo 107",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a107"
+    },
+    {
+      "id": "tv",
+      "titulo": "TÍTULO V",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/tv"
+    },
+    {
+      "id": "a108",
+      "titulo": "Artículo 108",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a108"
+    },
+    {
+      "id": "a109",
+      "titulo": "Artículo 109",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a109"
+    },
+    {
+      "id": "a110",
+      "titulo": "Artículo 110",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a110"
+    },
+    {
+      "id": "a111",
+      "titulo": "Artículo 111",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a111"
+    },
+    {
+      "id": "a112",
+      "titulo": "Artículo 112",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a112"
+    },
+    {
+      "id": "a113",
+      "titulo": "Artículo 113",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a113"
+    },
+    {
+      "id": "a114",
+      "titulo": "Artículo 114",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a114"
+    },
+    {
+      "id": "a115",
+      "titulo": "Artículo 115",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a115"
+    },
+    {
+      "id": "a116",
+      "titulo": "Artículo 116",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a116"
+    },
+    {
+      "id": "tvi",
+      "titulo": "TÍTULO VI",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/tvi"
+    },
+    {
+      "id": "a117",
+      "titulo": "Artículo 117",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a117"
+    },
+    {
+      "id": "a118",
+      "titulo": "Artículo 118",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a118"
+    },
+    {
+      "id": "a119",
+      "titulo": "Artículo 119",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a119"
+    },
+    {
+      "id": "a120",
+      "titulo": "Artículo 120",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a120"
+    },
+    {
+      "id": "a121",
+      "titulo": "Artículo 121",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a121"
+    },
+    {
+      "id": "a122",
+      "titulo": "Artículo 122",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a122"
+    },
+    {
+      "id": "a123",
+      "titulo": "Artículo 123",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a123"
+    },
+    {
+      "id": "a124",
+      "titulo": "Artículo 124",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a124"
+    },
+    {
+      "id": "a125",
+      "titulo": "Artículo 125",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a125"
+    },
+    {
+      "id": "a126",
+      "titulo": "Artículo 126",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a126"
+    },
+    {
+      "id": "a127",
+      "titulo": "Artículo 127",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a127"
+    },
+    {
+      "id": "tvii",
+      "titulo": "TÍTULO VII",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/tvii"
+    },
+    {
+      "id": "a128",
+      "titulo": "Artículo 128",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a128"
+    },
+    {
+      "id": "a129",
+      "titulo": "Artículo 129",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a129"
+    },
+    {
+      "id": "a130",
+      "titulo": "Artículo 130",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a130"
+    },
+    {
+      "id": "a131",
+      "titulo": "Artículo 131",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a131"
+    },
+    {
+      "id": "a132",
+      "titulo": "Artículo 132",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a132"
+    },
+    {
+      "id": "a133",
+      "titulo": "Artículo 133",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a133"
+    },
+    {
+      "id": "a134",
+      "titulo": "Artículo 134",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a134"
+    },
+    {
+      "id": "a135",
+      "titulo": "Artículo 135",
+      "fecha_actualizacion": "20110927",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a135"
+    },
+    {
+      "id": "a136",
+      "titulo": "Artículo 136",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a136"
+    },
+    {
+      "id": "tviii",
+      "titulo": "TÍTULO VIII",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/tviii"
+    },
+    {
+      "id": "cprimero-3",
+      "titulo": "CAPÍTULO PRIMERO",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/cprimero-3"
+    },
+    {
+      "id": "a137",
+      "titulo": "Artículo 137",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a137"
+    },
+    {
+      "id": "a138",
+      "titulo": "Artículo 138",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a138"
+    },
+    {
+      "id": "a139",
+      "titulo": "Artículo 139",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a139"
+    },
+    {
+      "id": "csegundo-3",
+      "titulo": "CAPÍTULO SEGUNDO",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/csegundo-3"
+    },
+    {
+      "id": "a140",
+      "titulo": "Artículo 140",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a140"
+    },
+    {
+      "id": "a141",
+      "titulo": "Artículo 141",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a141"
+    },
+    {
+      "id": "a142",
+      "titulo": "Artículo 142",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a142"
+    },
+    {
+      "id": "ctercero-3",
+      "titulo": "CAPÍTULO TERCERO",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/ctercero-3"
+    },
+    {
+      "id": "a143",
+      "titulo": "Artículo 143",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a143"
+    },
+    {
+      "id": "a144",
+      "titulo": "Artículo 144",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a144"
+    },
+    {
+      "id": "a145",
+      "titulo": "Artículo 145",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a145"
+    },
+    {
+      "id": "a146",
+      "titulo": "Artículo 146",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a146"
+    },
+    {
+      "id": "a147",
+      "titulo": "Artículo 147",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a147"
+    },
+    {
+      "id": "a148",
+      "titulo": "Artículo 148",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a148"
+    },
+    {
+      "id": "a149",
+      "titulo": "Artículo 149",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a149"
+    },
+    {
+      "id": "a150",
+      "titulo": "Artículo 150",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a150"
+    },
+    {
+      "id": "a151",
+      "titulo": "Artículo 151",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a151"
+    },
+    {
+      "id": "a152",
+      "titulo": "Artículo 152",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a152"
+    },
+    {
+      "id": "a153",
+      "titulo": "Artículo 153",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a153"
+    },
+    {
+      "id": "a154",
+      "titulo": "Artículo 154",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a154"
+    },
+    {
+      "id": "a155",
+      "titulo": "Artículo 155",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a155"
+    },
+    {
+      "id": "a156",
+      "titulo": "Artículo 156",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a156"
+    },
+    {
+      "id": "a157",
+      "titulo": "Artículo 157",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a157"
+    },
+    {
+      "id": "a158",
+      "titulo": "Artículo 158",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a158"
+    },
+    {
+      "id": "tix",
+      "titulo": "TÍTULO IX",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/tix"
+    },
+    {
+      "id": "a159",
+      "titulo": "Artículo 159",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a159"
+    },
+    {
+      "id": "a160",
+      "titulo": "Artículo 160",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a160"
+    },
+    {
+      "id": "a161",
+      "titulo": "Artículo 161",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a161"
+    },
+    {
+      "id": "a162",
+      "titulo": "Artículo 162",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a162"
+    },
+    {
+      "id": "a163",
+      "titulo": "Artículo 163",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a163"
+    },
+    {
+      "id": "a164",
+      "titulo": "Artículo 164",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a164"
+    },
+    {
+      "id": "a165",
+      "titulo": "Artículo 165",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a165"
+    },
+    {
+      "id": "tx",
+      "titulo": "TÍTULO X",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/tx"
+    },
+    {
+      "id": "a166",
+      "titulo": "Artículo 166",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a166"
+    },
+    {
+      "id": "a167",
+      "titulo": "Artículo 167",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a167"
+    },
+    {
+      "id": "a168",
+      "titulo": "Artículo 168",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a168"
+    },
+    {
+      "id": "a169",
+      "titulo": "Artículo 169",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a169"
+    },
+    {
+      "id": "primera",
+      "titulo": "Disposición adicional primera",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/primera"
+    },
+    {
+      "id": "segunda",
+      "titulo": "Disposición adicional segunda",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/segunda"
+    },
+    {
+      "id": "tercera",
+      "titulo": "Disposición adicional tercera",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/tercera"
+    },
+    {
+      "id": "cuarta",
+      "titulo": "Disposición adicional cuarta",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/cuarta"
+    },
+    {
+      "id": "primera-2",
+      "titulo": "Disposición transitoria primera",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/primera-2"
+    },
+    {
+      "id": "segunda-2",
+      "titulo": "Disposición transitoria segunda",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/segunda-2"
+    },
+    {
+      "id": "tercera-2",
+      "titulo": "Disposición transitoria tercera",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/tercera-2"
+    },
+    {
+      "id": "cuarta-2",
+      "titulo": "Disposición transitoria cuarta",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/cuarta-2"
+    },
+    {
+      "id": "quinta",
+      "titulo": "Disposición transitoria quinta",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/quinta"
+    },
+    {
+      "id": "sexta",
+      "titulo": "Disposición transitoria sexta",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/sexta"
+    },
+    {
+      "id": "septima",
+      "titulo": "Disposición transitoria séptima",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/septima"
+    },
+    {
+      "id": "octava",
+      "titulo": "Disposición transitoria octava",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/octava"
+    },
+    {
+      "id": "novena",
+      "titulo": "Disposición transitoria novena",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/novena"
+    },
+    {
+      "id": "dd",
+      "titulo": "Disposición derogatoria",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/dd"
+    },
+    {
+      "id": "df",
+      "titulo": "Disposición final",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/df"
+    },
+    {
+      "id": "firma",
+      "titulo": "",
+      "fecha_actualizacion": "19781229",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/firma"
+    }
+  ],
+  "articulos": [
+    {
+      "articulo": "1",
+      "id_bloque": "a1",
+      "titulo": "Artículo 1",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a1"
+    },
+    {
+      "articulo": "2",
+      "id_bloque": "a2",
+      "titulo": "Artículo 2",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a2"
+    },
+    {
+      "articulo": "3",
+      "id_bloque": "a3",
+      "titulo": "Artículo 3",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a3"
+    },
+    {
+      "articulo": "4",
+      "id_bloque": "a4",
+      "titulo": "Artículo 4",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a4"
+    },
+    {
+      "articulo": "5",
+      "id_bloque": "a5",
+      "titulo": "Artículo 5",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a5"
+    },
+    {
+      "articulo": "6",
+      "id_bloque": "a6",
+      "titulo": "Artículo 6",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a6"
+    },
+    {
+      "articulo": "7",
+      "id_bloque": "a7",
+      "titulo": "Artículo 7",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a7"
+    },
+    {
+      "articulo": "8",
+      "id_bloque": "a8",
+      "titulo": "Artículo 8",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a8"
+    },
+    {
+      "articulo": "9",
+      "id_bloque": "a9",
+      "titulo": "Artículo 9",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a9"
+    },
+    {
+      "articulo": "10",
+      "id_bloque": "a10",
+      "titulo": "Artículo 10",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a10"
+    },
+    {
+      "articulo": "11",
+      "id_bloque": "a11",
+      "titulo": "Artículo 11",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a11"
+    },
+    {
+      "articulo": "12",
+      "id_bloque": "a12",
+      "titulo": "Artículo 12",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a12"
+    },
+    {
+      "articulo": "13",
+      "id_bloque": "a13",
+      "titulo": "Artículo 13",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a13"
+    },
+    {
+      "articulo": "14",
+      "id_bloque": "a14",
+      "titulo": "Artículo 14",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a14"
+    },
+    {
+      "articulo": "15",
+      "id_bloque": "a15",
+      "titulo": "Artículo 15",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a15"
+    },
+    {
+      "articulo": "16",
+      "id_bloque": "a16",
+      "titulo": "Artículo 16",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a16"
+    },
+    {
+      "articulo": "17",
+      "id_bloque": "a17",
+      "titulo": "Artículo 17",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a17"
+    },
+    {
+      "articulo": "18",
+      "id_bloque": "a18",
+      "titulo": "Artículo 18",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a18"
+    },
+    {
+      "articulo": "19",
+      "id_bloque": "a19",
+      "titulo": "Artículo 19",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a19"
+    },
+    {
+      "articulo": "20",
+      "id_bloque": "a20",
+      "titulo": "Artículo 20",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a20"
+    },
+    {
+      "articulo": "21",
+      "id_bloque": "a21",
+      "titulo": "Artículo 21",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a21"
+    },
+    {
+      "articulo": "22",
+      "id_bloque": "a22",
+      "titulo": "Artículo 22",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a22"
+    },
+    {
+      "articulo": "23",
+      "id_bloque": "a23",
+      "titulo": "Artículo 23",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a23"
+    },
+    {
+      "articulo": "24",
+      "id_bloque": "a24",
+      "titulo": "Artículo 24",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a24"
+    },
+    {
+      "articulo": "25",
+      "id_bloque": "a25",
+      "titulo": "Artículo 25",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a25"
+    },
+    {
+      "articulo": "26",
+      "id_bloque": "a26",
+      "titulo": "Artículo 26",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a26"
+    },
+    {
+      "articulo": "27",
+      "id_bloque": "a27",
+      "titulo": "Artículo 27",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a27"
+    },
+    {
+      "articulo": "28",
+      "id_bloque": "a28",
+      "titulo": "Artículo 28",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a28"
+    },
+    {
+      "articulo": "29",
+      "id_bloque": "a29",
+      "titulo": "Artículo 29",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a29"
+    },
+    {
+      "articulo": "30",
+      "id_bloque": "a30",
+      "titulo": "Artículo 30",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a30"
+    },
+    {
+      "articulo": "31",
+      "id_bloque": "a31",
+      "titulo": "Artículo 31",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a31"
+    },
+    {
+      "articulo": "32",
+      "id_bloque": "a32",
+      "titulo": "Artículo 32",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a32"
+    },
+    {
+      "articulo": "33",
+      "id_bloque": "a33",
+      "titulo": "Artículo 33",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a33"
+    },
+    {
+      "articulo": "34",
+      "id_bloque": "a34",
+      "titulo": "Artículo 34",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a34"
+    },
+    {
+      "articulo": "35",
+      "id_bloque": "a35",
+      "titulo": "Artículo 35",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a35"
+    },
+    {
+      "articulo": "36",
+      "id_bloque": "a36",
+      "titulo": "Artículo 36",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a36"
+    },
+    {
+      "articulo": "37",
+      "id_bloque": "a37",
+      "titulo": "Artículo 37",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a37"
+    },
+    {
+      "articulo": "38",
+      "id_bloque": "a38",
+      "titulo": "Artículo 38",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a38"
+    },
+    {
+      "articulo": "39",
+      "id_bloque": "a39",
+      "titulo": "Artículo 39",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a39"
+    },
+    {
+      "articulo": "40",
+      "id_bloque": "a40",
+      "titulo": "Artículo 40",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a40"
+    },
+    {
+      "articulo": "41",
+      "id_bloque": "a41",
+      "titulo": "Artículo 41",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a41"
+    },
+    {
+      "articulo": "42",
+      "id_bloque": "a42",
+      "titulo": "Artículo 42",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a42"
+    },
+    {
+      "articulo": "43",
+      "id_bloque": "a43",
+      "titulo": "Artículo 43",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a43"
+    },
+    {
+      "articulo": "44",
+      "id_bloque": "a44",
+      "titulo": "Artículo 44",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a44"
+    },
+    {
+      "articulo": "45",
+      "id_bloque": "a45",
+      "titulo": "Artículo 45",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a45"
+    },
+    {
+      "articulo": "46",
+      "id_bloque": "a46",
+      "titulo": "Artículo 46",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a46"
+    },
+    {
+      "articulo": "47",
+      "id_bloque": "a47",
+      "titulo": "Artículo 47",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a47"
+    },
+    {
+      "articulo": "48",
+      "id_bloque": "a48",
+      "titulo": "Artículo 48",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a48"
+    },
+    {
+      "articulo": "49",
+      "id_bloque": "a49",
+      "titulo": "Artículo 49",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a49"
+    },
+    {
+      "articulo": "50",
+      "id_bloque": "a50",
+      "titulo": "Artículo 50",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a50"
+    },
+    {
+      "articulo": "51",
+      "id_bloque": "a51",
+      "titulo": "Artículo 51",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a51"
+    },
+    {
+      "articulo": "52",
+      "id_bloque": "a52",
+      "titulo": "Artículo 52",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a52"
+    },
+    {
+      "articulo": "53",
+      "id_bloque": "a53",
+      "titulo": "Artículo 53",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a53"
+    },
+    {
+      "articulo": "54",
+      "id_bloque": "a54",
+      "titulo": "Artículo 54",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a54"
+    },
+    {
+      "articulo": "55",
+      "id_bloque": "a55",
+      "titulo": "Artículo 55",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a55"
+    },
+    {
+      "articulo": "56",
+      "id_bloque": "a56",
+      "titulo": "Artículo 56",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a56"
+    },
+    {
+      "articulo": "57",
+      "id_bloque": "a57",
+      "titulo": "Artículo 57",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a57"
+    },
+    {
+      "articulo": "58",
+      "id_bloque": "a58",
+      "titulo": "Artículo 58",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a58"
+    },
+    {
+      "articulo": "59",
+      "id_bloque": "a59",
+      "titulo": "Artículo 59",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a59"
+    },
+    {
+      "articulo": "60",
+      "id_bloque": "a60",
+      "titulo": "Artículo 60",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a60"
+    },
+    {
+      "articulo": "61",
+      "id_bloque": "a61",
+      "titulo": "Artículo 61",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a61"
+    },
+    {
+      "articulo": "62",
+      "id_bloque": "a62",
+      "titulo": "Artículo 62",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a62"
+    },
+    {
+      "articulo": "63",
+      "id_bloque": "a63",
+      "titulo": "Artículo 63",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a63"
+    },
+    {
+      "articulo": "64",
+      "id_bloque": "a64",
+      "titulo": "Artículo 64",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a64"
+    },
+    {
+      "articulo": "65",
+      "id_bloque": "a65",
+      "titulo": "Artículo 65",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a65"
+    },
+    {
+      "articulo": "66",
+      "id_bloque": "a66",
+      "titulo": "Artículo 66",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a66"
+    },
+    {
+      "articulo": "67",
+      "id_bloque": "a67",
+      "titulo": "Artículo 67",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a67"
+    },
+    {
+      "articulo": "68",
+      "id_bloque": "a68",
+      "titulo": "Artículo 68",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a68"
+    },
+    {
+      "articulo": "69",
+      "id_bloque": "a69",
+      "titulo": "Artículo 69",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a69"
+    },
+    {
+      "articulo": "70",
+      "id_bloque": "a70",
+      "titulo": "Artículo 70",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a70"
+    },
+    {
+      "articulo": "71",
+      "id_bloque": "a71",
+      "titulo": "Artículo 71",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a71"
+    },
+    {
+      "articulo": "72",
+      "id_bloque": "a72",
+      "titulo": "Artículo 72",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a72"
+    },
+    {
+      "articulo": "73",
+      "id_bloque": "a73",
+      "titulo": "Artículo 73",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a73"
+    },
+    {
+      "articulo": "74",
+      "id_bloque": "a74",
+      "titulo": "Artículo 74",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a74"
+    },
+    {
+      "articulo": "75",
+      "id_bloque": "a75",
+      "titulo": "Artículo 75",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a75"
+    },
+    {
+      "articulo": "76",
+      "id_bloque": "a76",
+      "titulo": "Artículo 76",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a76"
+    },
+    {
+      "articulo": "77",
+      "id_bloque": "a77",
+      "titulo": "Artículo 77",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a77"
+    },
+    {
+      "articulo": "78",
+      "id_bloque": "a78",
+      "titulo": "Artículo 78",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a78"
+    },
+    {
+      "articulo": "79",
+      "id_bloque": "a79",
+      "titulo": "Artículo 79",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a79"
+    },
+    {
+      "articulo": "80",
+      "id_bloque": "a80",
+      "titulo": "Artículo 80",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a80"
+    },
+    {
+      "articulo": "81",
+      "id_bloque": "a81",
+      "titulo": "Artículo 81",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a81"
+    },
+    {
+      "articulo": "82",
+      "id_bloque": "a82",
+      "titulo": "Artículo 82",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a82"
+    },
+    {
+      "articulo": "83",
+      "id_bloque": "a83",
+      "titulo": "Artículo 83",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a83"
+    },
+    {
+      "articulo": "84",
+      "id_bloque": "a84",
+      "titulo": "Artículo 84",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a84"
+    },
+    {
+      "articulo": "85",
+      "id_bloque": "a85",
+      "titulo": "Artículo 85",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a85"
+    },
+    {
+      "articulo": "86",
+      "id_bloque": "a86",
+      "titulo": "Artículo 86",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a86"
+    },
+    {
+      "articulo": "87",
+      "id_bloque": "a87",
+      "titulo": "Artículo 87",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a87"
+    },
+    {
+      "articulo": "88",
+      "id_bloque": "a88",
+      "titulo": "Artículo 88",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a88"
+    },
+    {
+      "articulo": "89",
+      "id_bloque": "a89",
+      "titulo": "Artículo 89",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a89"
+    },
+    {
+      "articulo": "90",
+      "id_bloque": "a90",
+      "titulo": "Artículo 90",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a90"
+    },
+    {
+      "articulo": "91",
+      "id_bloque": "a91",
+      "titulo": "Artículo 91",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a91"
+    },
+    {
+      "articulo": "92",
+      "id_bloque": "a92",
+      "titulo": "Artículo 92",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a92"
+    },
+    {
+      "articulo": "93",
+      "id_bloque": "a93",
+      "titulo": "Artículo 93",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a93"
+    },
+    {
+      "articulo": "94",
+      "id_bloque": "a94",
+      "titulo": "Artículo 94",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a94"
+    },
+    {
+      "articulo": "95",
+      "id_bloque": "a95",
+      "titulo": "Artículo 95",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a95"
+    },
+    {
+      "articulo": "96",
+      "id_bloque": "a96",
+      "titulo": "Artículo 96",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a96"
+    },
+    {
+      "articulo": "97",
+      "id_bloque": "a97",
+      "titulo": "Artículo 97",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a97"
+    },
+    {
+      "articulo": "98",
+      "id_bloque": "a98",
+      "titulo": "Artículo 98",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a98"
+    },
+    {
+      "articulo": "99",
+      "id_bloque": "a99",
+      "titulo": "Artículo 99",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a99"
+    },
+    {
+      "articulo": "100",
+      "id_bloque": "a100",
+      "titulo": "Artículo 100",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a100"
+    },
+    {
+      "articulo": "101",
+      "id_bloque": "a101",
+      "titulo": "Artículo 101",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a101"
+    },
+    {
+      "articulo": "102",
+      "id_bloque": "a102",
+      "titulo": "Artículo 102",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a102"
+    },
+    {
+      "articulo": "103",
+      "id_bloque": "a103",
+      "titulo": "Artículo 103",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a103"
+    },
+    {
+      "articulo": "104",
+      "id_bloque": "a104",
+      "titulo": "Artículo 104",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a104"
+    },
+    {
+      "articulo": "105",
+      "id_bloque": "a105",
+      "titulo": "Artículo 105",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a105"
+    },
+    {
+      "articulo": "106",
+      "id_bloque": "a106",
+      "titulo": "Artículo 106",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a106"
+    },
+    {
+      "articulo": "107",
+      "id_bloque": "a107",
+      "titulo": "Artículo 107",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a107"
+    },
+    {
+      "articulo": "108",
+      "id_bloque": "a108",
+      "titulo": "Artículo 108",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a108"
+    },
+    {
+      "articulo": "109",
+      "id_bloque": "a109",
+      "titulo": "Artículo 109",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a109"
+    },
+    {
+      "articulo": "110",
+      "id_bloque": "a110",
+      "titulo": "Artículo 110",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a110"
+    },
+    {
+      "articulo": "111",
+      "id_bloque": "a111",
+      "titulo": "Artículo 111",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a111"
+    },
+    {
+      "articulo": "112",
+      "id_bloque": "a112",
+      "titulo": "Artículo 112",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a112"
+    },
+    {
+      "articulo": "113",
+      "id_bloque": "a113",
+      "titulo": "Artículo 113",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a113"
+    },
+    {
+      "articulo": "114",
+      "id_bloque": "a114",
+      "titulo": "Artículo 114",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a114"
+    },
+    {
+      "articulo": "115",
+      "id_bloque": "a115",
+      "titulo": "Artículo 115",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a115"
+    },
+    {
+      "articulo": "116",
+      "id_bloque": "a116",
+      "titulo": "Artículo 116",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a116"
+    },
+    {
+      "articulo": "117",
+      "id_bloque": "a117",
+      "titulo": "Artículo 117",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a117"
+    },
+    {
+      "articulo": "118",
+      "id_bloque": "a118",
+      "titulo": "Artículo 118",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a118"
+    },
+    {
+      "articulo": "119",
+      "id_bloque": "a119",
+      "titulo": "Artículo 119",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a119"
+    },
+    {
+      "articulo": "120",
+      "id_bloque": "a120",
+      "titulo": "Artículo 120",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a120"
+    },
+    {
+      "articulo": "121",
+      "id_bloque": "a121",
+      "titulo": "Artículo 121",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a121"
+    },
+    {
+      "articulo": "122",
+      "id_bloque": "a122",
+      "titulo": "Artículo 122",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a122"
+    },
+    {
+      "articulo": "123",
+      "id_bloque": "a123",
+      "titulo": "Artículo 123",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a123"
+    },
+    {
+      "articulo": "124",
+      "id_bloque": "a124",
+      "titulo": "Artículo 124",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a124"
+    },
+    {
+      "articulo": "125",
+      "id_bloque": "a125",
+      "titulo": "Artículo 125",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a125"
+    },
+    {
+      "articulo": "126",
+      "id_bloque": "a126",
+      "titulo": "Artículo 126",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a126"
+    },
+    {
+      "articulo": "127",
+      "id_bloque": "a127",
+      "titulo": "Artículo 127",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a127"
+    },
+    {
+      "articulo": "128",
+      "id_bloque": "a128",
+      "titulo": "Artículo 128",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a128"
+    },
+    {
+      "articulo": "129",
+      "id_bloque": "a129",
+      "titulo": "Artículo 129",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a129"
+    },
+    {
+      "articulo": "130",
+      "id_bloque": "a130",
+      "titulo": "Artículo 130",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a130"
+    },
+    {
+      "articulo": "131",
+      "id_bloque": "a131",
+      "titulo": "Artículo 131",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a131"
+    },
+    {
+      "articulo": "132",
+      "id_bloque": "a132",
+      "titulo": "Artículo 132",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a132"
+    },
+    {
+      "articulo": "133",
+      "id_bloque": "a133",
+      "titulo": "Artículo 133",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a133"
+    },
+    {
+      "articulo": "134",
+      "id_bloque": "a134",
+      "titulo": "Artículo 134",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a134"
+    },
+    {
+      "articulo": "135",
+      "id_bloque": "a135",
+      "titulo": "Artículo 135",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a135"
+    },
+    {
+      "articulo": "136",
+      "id_bloque": "a136",
+      "titulo": "Artículo 136",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a136"
+    },
+    {
+      "articulo": "137",
+      "id_bloque": "a137",
+      "titulo": "Artículo 137",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a137"
+    },
+    {
+      "articulo": "138",
+      "id_bloque": "a138",
+      "titulo": "Artículo 138",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a138"
+    },
+    {
+      "articulo": "139",
+      "id_bloque": "a139",
+      "titulo": "Artículo 139",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a139"
+    },
+    {
+      "articulo": "140",
+      "id_bloque": "a140",
+      "titulo": "Artículo 140",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a140"
+    },
+    {
+      "articulo": "141",
+      "id_bloque": "a141",
+      "titulo": "Artículo 141",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a141"
+    },
+    {
+      "articulo": "142",
+      "id_bloque": "a142",
+      "titulo": "Artículo 142",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a142"
+    },
+    {
+      "articulo": "143",
+      "id_bloque": "a143",
+      "titulo": "Artículo 143",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a143"
+    },
+    {
+      "articulo": "144",
+      "id_bloque": "a144",
+      "titulo": "Artículo 144",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a144"
+    },
+    {
+      "articulo": "145",
+      "id_bloque": "a145",
+      "titulo": "Artículo 145",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a145"
+    },
+    {
+      "articulo": "146",
+      "id_bloque": "a146",
+      "titulo": "Artículo 146",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a146"
+    },
+    {
+      "articulo": "147",
+      "id_bloque": "a147",
+      "titulo": "Artículo 147",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a147"
+    },
+    {
+      "articulo": "148",
+      "id_bloque": "a148",
+      "titulo": "Artículo 148",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a148"
+    },
+    {
+      "articulo": "149",
+      "id_bloque": "a149",
+      "titulo": "Artículo 149",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a149"
+    },
+    {
+      "articulo": "150",
+      "id_bloque": "a150",
+      "titulo": "Artículo 150",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a150"
+    },
+    {
+      "articulo": "151",
+      "id_bloque": "a151",
+      "titulo": "Artículo 151",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a151"
+    },
+    {
+      "articulo": "152",
+      "id_bloque": "a152",
+      "titulo": "Artículo 152",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a152"
+    },
+    {
+      "articulo": "153",
+      "id_bloque": "a153",
+      "titulo": "Artículo 153",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a153"
+    },
+    {
+      "articulo": "154",
+      "id_bloque": "a154",
+      "titulo": "Artículo 154",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a154"
+    },
+    {
+      "articulo": "155",
+      "id_bloque": "a155",
+      "titulo": "Artículo 155",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a155"
+    },
+    {
+      "articulo": "156",
+      "id_bloque": "a156",
+      "titulo": "Artículo 156",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a156"
+    },
+    {
+      "articulo": "157",
+      "id_bloque": "a157",
+      "titulo": "Artículo 157",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a157"
+    },
+    {
+      "articulo": "158",
+      "id_bloque": "a158",
+      "titulo": "Artículo 158",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a158"
+    },
+    {
+      "articulo": "159",
+      "id_bloque": "a159",
+      "titulo": "Artículo 159",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a159"
+    },
+    {
+      "articulo": "160",
+      "id_bloque": "a160",
+      "titulo": "Artículo 160",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a160"
+    },
+    {
+      "articulo": "161",
+      "id_bloque": "a161",
+      "titulo": "Artículo 161",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a161"
+    },
+    {
+      "articulo": "162",
+      "id_bloque": "a162",
+      "titulo": "Artículo 162",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a162"
+    },
+    {
+      "articulo": "163",
+      "id_bloque": "a163",
+      "titulo": "Artículo 163",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a163"
+    },
+    {
+      "articulo": "164",
+      "id_bloque": "a164",
+      "titulo": "Artículo 164",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a164"
+    },
+    {
+      "articulo": "165",
+      "id_bloque": "a165",
+      "titulo": "Artículo 165",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a165"
+    },
+    {
+      "articulo": "166",
+      "id_bloque": "a166",
+      "titulo": "Artículo 166",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a166"
+    },
+    {
+      "articulo": "167",
+      "id_bloque": "a167",
+      "titulo": "Artículo 167",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a167"
+    },
+    {
+      "articulo": "168",
+      "id_bloque": "a168",
+      "titulo": "Artículo 168",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a168"
+    },
+    {
+      "articulo": "169",
+      "id_bloque": "a169",
+      "titulo": "Artículo 169",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a169"
+    }
+  ]
+}

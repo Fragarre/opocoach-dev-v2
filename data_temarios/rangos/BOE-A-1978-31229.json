@@ -1,0 +1,197 @@
+{
+  "identificador_oficial": "BOE-A-1978-31229",
+  "rangos": [
+    {
+      "id_bloque": "tpreliminar",
+      "titulo": "TÍTULO PRELIMINAR",
+      "nivel": 1,
+      "articulo_inicial": 1,
+      "articulo_final": 9,
+      "rango": "1-9"
+    },
+    {
+      "id_bloque": "ti",
+      "titulo": "TÍTULO I",
+      "nivel": 1,
+      "articulo_inicial": 10,
+      "articulo_final": 55,
+      "rango": "10-55"
+    },
+    {
+      "id_bloque": "cprimero",
+      "titulo": "CAPÍTULO PRIMERO",
+      "nivel": 2,
+      "articulo_inicial": 11,
+      "articulo_final": 13,
+      "rango": "11-13"
+    },
+    {
+      "id_bloque": "csegundo",
+      "titulo": "CAPÍTULO SEGUNDO",
+      "nivel": 2,
+      "articulo_inicial": 14,
+      "articulo_final": 38,
+      "rango": "14-38"
+    },
+    {
+      "id_bloque": "s1",
+      "titulo": "SECCIÓN 1",
+      "nivel": 3,
+      "articulo_inicial": 15,
+      "articulo_final": 29,
+      "rango": "15-29"
+    },
+    {
+      "id_bloque": "s2",
+      "titulo": "SECCIÓN 2",
+      "nivel": 3,
+      "articulo_inicial": 30,
+      "articulo_final": 38,
+      "rango": "30-38"
+    },
+    {
+      "id_bloque": "ctercero",
+      "titulo": "CAPÍTULO TERCERO",
+      "nivel": 2,
+      "articulo_inicial": 39,
+      "articulo_final": 52,
+      "rango": "39-52"
+    },
+    {
+      "id_bloque": "ccuarto",
+      "titulo": "CAPÍTULO CUARTO",
+      "nivel": 2,
+      "articulo_inicial": 53,
+      "articulo_final": 54,
+      "rango": "53-54"
+    },
+    {
+      "id_bloque": "cquinto",
+      "titulo": "CAPÍTULO QUINTO",
+      "nivel": 2,
+      "articulo_inicial": 55,
+      "articulo_final": 55,
+      "rango": "55"
+    },
+    {
+      "id_bloque": "tii",
+      "titulo": "TÍTULO II",
+      "nivel": 1,
+      "articulo_inicial": 56,
+      "articulo_final": 65,
+      "rango": "56-65"
+    },
+    {
+      "id_bloque": "tiii",
+      "titulo": "TÍTULO III",
+      "nivel": 1,
+      "articulo_inicial": 66,
+      "articulo_final": 96,
+      "rango": "66-96"
+    },
+    {
+      "id_bloque": "cprimero-2",
+      "titulo": "CAPÍTULO PRIMERO",
+      "nivel": 2,
+      "articulo_inicial": 66,
+      "articulo_final": 80,
+      "rango": "66-80"
+    },
+    {
+      "id_bloque": "csegundo-2",
+      "titulo": "CAPÍTULO SEGUNDO",
+      "nivel": 2,
+      "articulo_inicial": 81,
+      "articulo_final": 92,
+      "rango": "81-92"
+    },
+    {
+      "id_bloque": "ctercero-2",
+      "titulo": "CAPÍTULO TERCERO",
+      "nivel": 2,
+      "articulo_inicial": 93,
+      "articulo_final": 96,
+      "rango": "93-96"
+    },
+    {
+      "id_bloque": "tiv",
+      "titulo": "TÍTULO IV",
+      "nivel": 1,
+      "articulo_inicial": 97,
+      "articulo_final": 107,
+      "rango": "97-107"
+    },
+    {
+      "id_bloque": "tv",
+      "titulo": "TÍTULO V",
+      "nivel": 1,
+      "articulo_inicial": 108,
+      "articulo_final": 116,
+      "rango": "108-116"
+    },
+    {
+      "id_bloque": "tvi",
+      "titulo": "TÍTULO VI",
+      "nivel": 1,
+      "articulo_inicial": 117,
+      "articulo_final": 127,
+      "rango": "117-127"
+    },
+    {
+      "id_bloque": "tvii",
+      "titulo": "TÍTULO VII",
+      "nivel": 1,
+      "articulo_inicial": 128,
+      "articulo_final": 136,
+      "rango": "128-136"
+    },
+    {
+      "id_bloque": "tviii",
+      "titulo": "TÍTULO VIII",
+      "nivel": 1,
+      "articulo_inicial": 137,
+      "articulo_final": 158,
+      "rango": "137-158"
+    },
+    {
+      "id_bloque": "cprimero-3",
+      "titulo": "CAPÍTULO PRIMERO",
+      "nivel": 2,
+      "articulo_inicial": 137,
+      "articulo_final": 139,
+      "rango": "137-139"
+    },
+    {
+      "id_bloque": "csegundo-3",
+      "titulo": "CAPÍTULO SEGUNDO",
+      "nivel": 2,
+      "articulo_inicial": 140,
+      "articulo_final": 142,
+      "rango": "140-142"
+    },
+    {
+      "id_bloque": "ctercero-3",
+      "titulo": "CAPÍTULO TERCERO",
+      "nivel": 2,
+      "articulo_inicial": 143,
+      "articulo_final": 158,
+      "rango": "143-158"
+    },
+    {
+      "id_bloque": "tix",
+      "titulo": "TÍTULO IX",
+      "nivel": 1,
+      "articulo_inicial": 159,
+      "articulo_final": 165,
+      "rango": "159-165"
+    },
+    {
+      "id_bloque": "tx",
+      "titulo": "TÍTULO X",
+      "nivel": 1,
+      "articulo_inicial": 166,
+      "articulo_final": 169,
+      "rango": "166-169"
+    }
+  ]
+}
