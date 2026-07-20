@@ -1,0 +1,15 @@
+# Ignorar todas las carpetas __pycache__ y su contenido
+__pycache__/
+
+# Ignorar archivos compilados de Python
+*.pyc
+*.pyo
+*.pyd
+*$py.class
+.venv
+env
+cache_boe
+docs
+logs
+docs_apoyo
+scripts_old
